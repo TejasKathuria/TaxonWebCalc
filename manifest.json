@@ -1,0 +1,9 @@
+{
+  "short_name": "Tax Calculator App",
+  "name": "Income Tax Calculator",
+  
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

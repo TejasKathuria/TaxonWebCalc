@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TejasKathuria/TaxonWebCalc/static/css/main.0b428eb9.css",
+    "main.js": "/TejasKathuria/TaxonWebCalc/static/js/main.21396a6b.js",
+    "static/js/787.686b419a.chunk.js": "/TejasKathuria/TaxonWebCalc/static/js/787.686b419a.chunk.js",
+    "index.html": "/TejasKathuria/TaxonWebCalc/index.html",
+    "main.0b428eb9.css.map": "/TejasKathuria/TaxonWebCalc/static/css/main.0b428eb9.css.map",
+    "main.21396a6b.js.map": "/TejasKathuria/TaxonWebCalc/static/js/main.21396a6b.js.map",
+    "787.686b419a.chunk.js.map": "/TejasKathuria/TaxonWebCalc/static/js/787.686b419a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b428eb9.css",
+    "static/js/main.21396a6b.js"
+  ]
+}
